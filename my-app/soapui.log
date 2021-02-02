@@ -1,0 +1,14 @@
+2021-02-01 10:43:36,548 WARN  [SoapUI] Missing folder [C:\Users\GeorgeScaria\Documents\API Project\my-app\ext] for external libraries
+2021-02-01 10:43:36,945 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\GeorgeScaria\soapui-settings.xml]
+2021-02-01 10:43:39,130 INFO  [WsdlProject] Loaded project from [file:/C:/Users/GeorgeScaria/Documents/API%20Project/my-app/API-Project-1-soapui-project.xml]
+2021-02-01 10:43:39,581 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [API Project 1]
+2021-02-01 10:43:39,583 INFO  [SoapUITestCaseRunner] Running Project [API Project 1], runType = SEQUENTIAL
+2021-02-01 10:43:39,640 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Property  and property transfer]
+2021-02-01 10:43:39,652 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 10:43:39,744 INFO  [SoapUITestCaseRunner] running step [SalesOrder]
+2021-02-01 10:43:42,050 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:43:42,051 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2021-02-01 10:43:42,529 INFO  [SoapUITestCaseRunner] running step [GetOrder]
+2021-02-01 10:43:43,191 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-02-01 10:43:43,197 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Property  and property transfer], time taken: 3509ms, status: FINISHED
+2021-02-01 10:43:43,198 INFO  [SoapUITestCaseRunner] Project [API Project 1] finished with status [FINISHED] in 3601ms

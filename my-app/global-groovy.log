@@ -1,0 +1,18 @@
+2021-02-01 10:41:31,843 INFO  [log] Status =FAILED, time taken to complete the execution is 4357 ms
+2021-02-01 10:41:31,963 INFO  [log] number of test steps executed are 2
+2021-02-01 10:41:33,010 INFO  [log] current username is geo
+2021-02-01 10:41:33,011 INFO  [log] current password is sca
+2021-02-01 10:41:37,312 INFO  [log] Status =FAILED, time taken to complete the execution is 4292 ms
+2021-02-01 10:41:37,312 INFO  [log] number of test steps executed are 2
+2021-02-01 10:41:37,313 INFO  [log] current username is det
+2021-02-01 10:41:37,313 INFO  [log] current password is set
+2021-02-01 10:41:41,635 INFO  [log] Status =FAILED, time taken to complete the execution is 4313 ms
+2021-02-01 10:41:41,637 INFO  [log] number of test steps executed are 2
+2021-02-01 10:41:41,637 INFO  [log] current username is wer
+2021-02-01 10:41:41,637 INFO  [log] current password is efet
+2021-02-01 10:41:45,929 INFO  [log] Status =FAILED, time taken to complete the execution is 4284 ms
+2021-02-01 10:41:45,930 INFO  [log] number of test steps executed are 2
+2021-02-01 10:41:45,930 INFO  [log] current username is ExpertzMe
+2021-02-01 10:41:45,930 INFO  [log] current password is Welcome1
+2021-02-01 10:41:50,231 INFO  [log] Status =FAILED, time taken to complete the execution is 4295 ms
+2021-02-01 10:41:50,231 INFO  [log] number of test steps executed are 2
